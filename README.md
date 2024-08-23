@@ -1,9 +1,3 @@
-<center><h1>TIỂU LUẬN MÔN HỌC</h1></center> 
-
-<center><h1>PHÂN TÍCH THIẾT KẾ HỆ THỐNG THÔNG TIN</h1></center> 
-
-<center><h1>Đề tài</h1></center> 
-
 <center><h1>Phân tích thiết kế hệ thống thông tin quản lý nhà hàng mỳ Ramen</h1></center> 
 
 <center><h1>Tháng 8 năm 2023</h1></center> 
